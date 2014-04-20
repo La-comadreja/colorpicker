@@ -1,11 +1,19 @@
 <h1>Colorpicker Home</h1>
-<body>
+<body id="color" background="red">
   <form action="/" id="bgColor">
     <select name="color">
-      <option name="red">Red</option>
-      <option name="yellow">Yellow</option>
-      <option name="blue">Blue</option>
+      <option name="red" value="red">Red</option>
+      <option name="yellow" value="yellow">Yellow</option>
+      <option selected name="blue" value="blue">Blue</option>
     </select>
     <input type="submit" value="Set Background" />
   </form>
+  <%= params[:color] %>
+
+  <!-- <script type="javascript">
+    function color_click() {
+      var myVar = document.getElementById('bgColor').value;
+      document.getElementById("color").style.backgroundColor = myVar;
+    }  
+  </script> -->
 </body>
