@@ -1,19 +1,15 @@
 <h1>Colorpicker Home</h1>
 <body id="color" background="red">
-  <form action="/" id="bgColor">
-    <select name="color">
-      <option name="red" value="red">Red</option>
-      <option name="yellow" value="yellow">Yellow</option>
-      <option selected name="blue" value="blue">Blue</option>
+  <form action="/" id="dailyEvents">
+    <select name="date">
+      <% for i in 0...@NUM_DAYS %>
+        <option name=<%= "\"" + i.to_s + "\"" %> value=<%= i.to_s %>><%= @search_days[i] %></option>
+      <% end %>
     </select>
     <input type="submit" value="Set Background" />
   </form>
-  <%= params[:color] %>
 
-  <!-- <script type="javascript">
-    function color_click() {
-      var myVar = document.getElementById('bgColor').value;
-      document.getElementById("color").style.backgroundColor = myVar;
-    }  
-  </script> -->
+  <%= "http://www.villagevoice.com/concerts/#/date:" + @search_days[@d] + "/" %>
+  <br><br>
+  <%= @doc_string.to_s %>
 </body>
