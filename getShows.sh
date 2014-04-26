@@ -7,7 +7,7 @@ do
 done
 cd pages/
 cat $(ls) > mySocialist.txt
-sed "s/listingRow (buzz)?( ?)(block)?( ?)(listingRowOdd)?'/listingRow/g" mySocialist.txt > mySocialist2.txt
+sed "s/<class='listingRow .*'>/<class='listingRow'>/g" mySocialist.txt > mySocialist2.txt
 mv mySocialist2.txt mySocialist.txt
 cd ..
 git add .
