@@ -180,7 +180,7 @@ function toggleFinePrint()
 }
 </script>
 
-<!-- 1398540083.886 - 1398540084.5234 - 0.63741207122803 -->
+<!-- 1398540167.9754 - 1398540168.628 - 0.65261006355286 -->
 
 
 		<div class="clear"></div>
@@ -534,5 +534,5 @@ var fb_onload_msl_function = function(){};
   }());
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ae1c9cfbe6","applicationID":"1173963","transactionName":"NVcDNURWXxJTARVaCQwdIAJCXl4PHQYEVQcXXhVORVJQE1EKTloIBlcZ","queueTime":0,"applicationTime":711,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-353.min.js"}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ae1c9cfbe6","applicationID":"1173963","transactionName":"NVcDNURWXxJTARVaCQwdIAJCXl4PHQYEVQcXXhVORVJQE1EKTloIBlcZ","queueTime":0,"applicationTime":728,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-353.min.js"}</script></body>
 </html>

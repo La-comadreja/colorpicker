@@ -2,7 +2,7 @@ rm pages/*
 i=1
 while [ $i -le 5 ];
 do
-  curl "http://www.mysocialist.com/concerts?page="$i -o "pages/"$i".txt"
+  curl "http://www.mysocialist.com/concerts?page="$i -o pages/$i.txt
   let i+=1
 done
 cd pages/
