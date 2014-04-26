@@ -9,11 +9,10 @@
     <input type="submit" value="Set Background" />
   </form>
 
-  <%= @sections.length %><br>
-  <% @sections.each do |s| %>
-    <% s = s.to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '') %>
-    <% if s.include?("+on+" + @search_days[@date]) %>
-      <%= s %><br><br>
-    <% end %>
+  <%= @events.length %><br>
+  <% for i in 0..@events.length %>
+    <a href=<%= @links[i] %>>Link to venue</a><br>
+    <font color="red"><%= @addresses[i] %></font><br>
+    <%= @events[i] %><br><br>
   <% end %>
 </body>
