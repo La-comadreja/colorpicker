@@ -11,6 +11,9 @@
 
   <%= @sections.length %><br>
   <% @sections.each do |s| %>
-    <%= s.to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '') %><br><br>
+    <% s = s.to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '') %>
+    <% if s.include?("+on+" + @search_days[@date]) %>
+      <%= s %><br><br>
+    <% end %>
   <% end %>
 </body>
