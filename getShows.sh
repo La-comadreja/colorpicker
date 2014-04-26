@@ -7,7 +7,7 @@ do
 done
 cd pages/
 cat $(ls) > mySocialist.txt
-sed "s/<class='listingRow '>/<class='listingRow'>/g" mySocialist.txt > mySocialist2.txt
+sed 's/listingRow /listingRow/g' mySocialist.txt > mySocialist2.txt
 cd ..
 git add .
 git commit -m "Update the list of shows"
