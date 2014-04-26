@@ -10,7 +10,7 @@ class HomeController < ApplicationController
 
     # pages directory scrapes from http://www.mysocialist.com/concerts
     doc_string = Nokogiri::HTML(open("pages/mysocialist.txt"))
-    @sections = doc_string.css(".listingRow ")
+    @sections = doc_string.css(".listingRow")
   end
 
   def get_day
