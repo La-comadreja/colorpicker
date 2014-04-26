@@ -16,20 +16,25 @@ class HomeController < ApplicationController
       @date = params[:date].to_i
     end
 
-    @links = []
     @events = []
+    @links = []
+    @addresses = []
     @sections.each do |s|
       t = s.to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
       if t.include?("+on+" + @search_days[@date])
         @events.append(t)
-        @links.append("http://www.mysocialist.com" + s.css("a")[0].to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '').split("\"")[1])    
+        l = "http://www.mysocialist.com" + s.css("a")[0].to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '').split("\"")[1]
+        @links.append(l)
+
+        doc_string = Nokogiri::HTML(open(l))
+        s = doc_string.css(".event-venue-data")[0].to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
+        address = extr(s, "streetAddress") + ", " + extr(s, "addressLocality") + ", " + extr(s, "addressRegion") + " " + extr(s, "postalCode")
+        @addresses.append(address) 
       end
     end
+  end
 
-    @addresses = []
-    @links.each do |l|
-      doc_string = Nokogiri::HTML(open(l))
-      @addresses.append(doc_string.css(".event-venue-data")[0].to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: ''))
-    end
+  def extr(s, str)
+    s.split("itemprop=\"" + str + "\">")[1].split("</span>")[0]
   end
 end
