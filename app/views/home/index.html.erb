@@ -9,28 +9,8 @@
     <input type="submit" value="Set Background" />
   </form>
 
-  <% cmd = "ls " + @search_days[0] + ".txt" %>
-  <%= `#{cmd}`.strip + "!!!" + @search_days[0] + ".txt" %><br>
-  <%= `#{cmd}`.strip == @search_days[0] + ".txt" %>
-  <% cmd = "ls " + @search_days[1] + ".txt" %><br>
-  <%= `#{cmd}` + " is ls for a file that isn't there" %>
-
-  <!-- Now we wget if the date has not yet been added to the scraper -->
-  <% tmp = params[:date] %>
-  <% tmp = 0 if tmp.nil? %>
-  <% tmp = tmp.to_i %>
-  <% cmd = "ls " + @search_days[tmp] + ".txt" %>
-  <%= "#" + `#{cmd}` + "#" %>
-  <% if `#{cmd}` == "" %>
-    <%= "(" + @search_days[tmp] + ")" %>
-    <% cmd = "wget " + "http://www.villagevoice.com/concerts/#/date:" + @search_days[tmp] + "/" %><br>
-    <% `#{cmd}` %><br>
-    <% cmd = "mv index.html " + @search_days[tmp] + ".txt" %>
-    <% `#{cmd}` %>
-  <% end %> 
-  <br><br>
   <%= @sections.length %><br>
   <% @sections.each do |s| %>
-    <%= s.text %>
+    <%= s.to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '') %><br><br>
   <% end %>
 </body>
