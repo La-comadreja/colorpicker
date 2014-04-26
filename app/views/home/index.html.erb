@@ -19,7 +19,18 @@
   <%= `#{cmd}` + " is ls for a file that isn't there" %>
 
   <!-- Now we wget if the date has not yet been added to the scraper -->
-   
+  <% tmp = params[:date] %>
+  <% tmp = 0 if tmp.nil? %>
+  <% tmp = tmp.to_i %>
+  <% cmd = "ls " + @search_days[tmp] + ".txt" %>
+  <%= "#" + `#{cmd}` + "#" %>
+  <% if `#{cmd}` == "" %>
+    <%= "(" + @search_days[tmp] + ")" %>
+    <% cmd = "wget " + "http://www.villagevoice.com/concerts/#/date:" + @search_days[tmp] + "/" %><br>
+    <% `#{cmd}` %><br>
+    <% cmd = "mv index.html " + @search_days[tmp] + ".txt" %>
+    <% `#{cmd}` %>
+  <% end %> 
   <br><br>
   <%= @doc_string.to_s %>
 </body>

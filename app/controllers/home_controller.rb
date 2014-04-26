@@ -8,8 +8,13 @@ class HomeController < ApplicationController
       @time += 86400
     end
 
-    @d = params[:days]
-    @d ||= 0
+    @d = get_day
     @doc_string = Nokogiri::HTML(open(URI.escape("http://www.villagevoice.com/concerts/#/date:" + @search_days[@d.to_i] + "/")))
+  end
+
+  def get_day
+    @e = params[:date].to_i
+    @e = 0 if @e.nil?
+    @e
   end
 end
