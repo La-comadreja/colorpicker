@@ -8,8 +8,9 @@ class HomeController < ApplicationController
       @time += 86400
     end
 
-    @d = get_day
-    @doc_string = Nokogiri::HTML(open(URI.escape("http://www.villagevoice.com/concerts/#/date:" + @search_days[@d.to_i] + "/")))
+    # pages directory scrapes from http://www.mysocialist.com/concerts
+    doc_string = Nokogiri::HTML(open("pages/mysocialist.txt"))
+    @sections = doc_string.css(".listingRow.buzz")
   end
 
   def get_day
