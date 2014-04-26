@@ -1,0 +1,1981 @@
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd">
+<html>
+<head>
+    <meta name='google-site-verification' content='o_D5zLzCQ84QTKtfR8P0gSeWLtxdTKuap5FkaZE83Ac' />
+<meta name='msvalidate.01' content='3443F17DFB93961891E95B1452B50579' />
+<meta name='pocket-site-verification' content='6097294e8198610e114ba7f353e6a4' />
+<link href='https://plus.google.com/117245466819710925471' rel='publisher' />
+<meta property="og:image" content="http://www.villagevoice.com/img/concert-calendar-thumb.jpg"/>
+<meta property="og:image" content="http://media.villagevoice.com/9692938.0.jpg"/>
+<meta property="og:image" content="http://www.villagevoice.com/img/citylogo-lg.png"/>
+  <title>New York Concert Calendar - Village Voice</title>
+  <meta name="description" content="Village Voice brings you the hottest music concerts and live events and performances in New York." />
+  <meta name="keywords" content="" />
+  <link rel="alternate" type="application/rss+xml" title="Village Voice: Concerts" href="feed://villagevoice.com/syndication/section/music"/>
+    <SCRIPT LANGUAGE="JavaScript">
+        var subnavsection = 'music';
+        <!--
+        //orig configuration
+        OAS_url = 'http://oascentral.villagevoice.com/';
+        OAS_listpos = 'Top,Bottom,Middle1,Middle3,Frame1';
+        OAS_sitepage = 'www.villagevoice.com/music-concerts';
+        OAS_query = 'XE&Category=Music&Subcategory=Listings&XE';
+        OAS_target = '_top';
+        //end of configuration
+        //-->
+    </SCRIPT>
+
+    <!-- for dev only, remove when rollup is corrected -->
+
+    <link rel='stylesheet' href='http://assets.villagevoice.com/load/c/default-44778.css' />
+<link rel='stylesheet' href='http://assets.villagevoice.com/load/c/concerts-index-44778.css' />
+    <!-- p/af/v/e/LoadJS -->
+<script language="javascript" src="http://assets.villagevoice.com/load/j/default-44778.js" type="text/javascript"></script>
+        <script language="javascript" src="http://assets.myvoicenation.com/load/js/2/omni.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.villagevoice.com/load/j/concerts-index-44778.js" type="text/javascript"></script>
+<!-- End p/af/v/e/LoadJS -->    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-395255-23']);
+  _gaq.push(['_setDomainName', 'villagevoice.com']);
+  _gaq.push(['_setCustomVar', 4, 'OASCategories', 'Music|Listings', 3]);
+  _gaq.push(['_setCustomVar', 3, 'OASSitepage','villagevoice.com/music-concerts',3]);
+ 
+
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    <style>
+     .outerBody { overflow: hidden; }
+     .innerBody { overflow-x: auto; }
+        #adWrapper2 {
+        width:1886px;
+        position:fixed;
+        top:30px;
+        left:50%;
+        margin:0;
+        padding:0;
+
+        }
+     #adWrapper2 .AdsSkin {
+        position:fixed;
+        z-index:0;
+        margin:0 0 0 -943px;
+        padding:0;
+
+     }
+     .pagecontainer {
+        border-left-width:4px;
+        border-right-width:4px;
+        z-index:1;
+     }
+    </style>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(window).scroll(function(){
+            var pos = 30 - $(document).scrollTop();
+           if(pos>=0){
+                $("#adWrapper2").css("top", pos);
+            }
+            else
+            {
+                $("#adWrapper2").css("top", 0);
+            }
+        });
+    });
+</script>
+ 
+</head>
+<body><!--googleoff: all--> 
+<div class='outerBody'>
+<div class='pagecontainer'>
+        <div class='vvmlb'>
+        <div class='topbanner'>
+            <!-- NOGSA -->
+<div class="Ads" id="Top">
+    <script type="text/javascript">
+        <!--
+        OAS_AD('Top');
+        //-->
+    </script>
+</div>
+<!-- /NOGSA -->        </div>
+        <div class='logo'>
+                        <a href="/"><img src='http://assets.villagevoice.com/img/citylogo.png' title="Welcome to villagevoice.com" alt="Welcome to villagevoice.com" /></a>
+                        <div class='webSubTitle'>Concerts</div>
+        </div>
+    </div>
+
+    <div class='sitenav'>
+        <script type="text/javascript">
+
+  WebFontConfig = {
+    google: { families: [ 'PT+Sans+Narrow:700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+
+</script>
+
+
+ <div class="newNavBar" id="newNavBar">
+
+  <div class="newNav">
+    <form action="http://www.villagevoice.com/search/index/" id="navSearch" onsubmit="resetUrlContext();navSearchSubmit(event);" method="get" accept-charset="utf-8">    <input name="keyword" type="text" autocomplete="off" class="text" id="searchInput" value="Search" />    <input type="submit" value="" class="submit"/>        <div class="filterSearch">
+        <input type="hidden" id="filterSearchVal" name="type" value="all" />
+            <ul>
+                <li id="search-all" class="active">Entire Site</li>
+                <li id="search-articles">Articles & Blogs</li>
+                <li id="search-restaurants">Restaurants</li>
+                <li id="search-locations">Places</li>
+                <li id="search-events">Events</li>
+                <li id="search-music">Music</li>
+                <li id="search-images">Images</li>
+                <li id="search-ads" class="moreSearch">Ads</li>
+                <li id="search-bars" class="moreSearch">Bars</li>
+                <li id="search-bestof" class="moreSearch">Best Of</li>
+                <li id="search-movies" class="moreSearch">Movies</li>
+            </ul>
+        </div>
+   </form><a id='tn1' href='/news/' tabindex='1' data-id='news' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'news']);"><img src='http://assets.villagevoice.com/img/newNav-news.png' alt='NEWS'/></a><a id='tn2' href='/calendar/' tabindex='2' data-id='calendar' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'calendar']);"><img src='http://assets.villagevoice.com/img/newNav-calendar.png' alt='CALENDAR'/></a><a id='tn3' href='/music/' tabindex='3' data-id='music' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'music']);"><img src='http://assets.villagevoice.com/img/newNav-music.png' alt='MUSIC'/></a><a id='tn4' href='/restaurants/' tabindex='4' data-id='restaurants' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'restaurants']);"><img src='http://assets.villagevoice.com/img/newNav-restaurants.png' alt='RESTAURANTS'/></a><a id='tn5' href='/arts/' tabindex='5' data-id='arts' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'arts']);"><img src='http://assets.villagevoice.com/img/newNav-arts.png' alt='ARTS'/></a><a id='tn6' href='/movies/' tabindex='6' data-id='film' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'film']);"><img src='http://assets.villagevoice.com/img/newNav-film.png' alt='FILM'/></a><a id='tn7' href='http://video.villagevoice.com/?autoplay=false' tabindex='7' data-id='video' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'video']);"><img src='http://assets.villagevoice.com/img/newNav-video.png' alt='VIDEO'/></a><a id='tn8' href='/bestof/' tabindex='8' data-id='bestof' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'bestof']);"><img src='http://assets.villagevoice.com/img/newNav-bestof.png' alt='BEST OF'/></a><a id='tn9' href='/promotions/' tabindex='9' data-id='promotions' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'promotions']);"><img src='http://assets.villagevoice.com/img/newNav-promotions.png' alt='PROMOTIONS'/></a><a id='tn10' href='/classifieds/' tabindex='10' data-id='classifieds' alt='' class='hover' onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'classifieds']);"><img src='http://assets.villagevoice.com/img/newNav-classifieds.png' alt='CLASSIFIEDS'/></a>  </div>
+
+ <div class="newSubNav" id="nsnews">
+<a href="/news/" class="arcLaunch" target="_self" alt="News in New York City" title="News in New York City" data-section="news" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York News']);">New York News</a><a href="http://blogs.villagevoice.com/runninscared/" target="_self" alt="New York City News Blog" title="New York City News Blog" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Local News Blog']);">Local News Blog</a><a href="http://www.villagevoice.com/columns/education-supplement-532020/" target="" alt="The Village Voice's Quarterly Education Supplement" title="The Village Voice's Quarterly Education Supplement" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Schooled']);">Schooled</a><a href="/search/archive_search/" target="_self" alt="Archives Search" title="Archives Search" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Archives Search']);">Archives Search</a><a href="/samples/readers/?source_id=8|55|1378" target="_self" alt="Weekly Newsletter" title="Weekly Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Weekly Newsletter']);">Weekly Newsletter</a><a href="/promotions/mobileApps/" target="_self" alt="Get Mobile" title="Get Mobile" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Get Mobile']);">Get Mobile</a>        <div class="archive news">
+            <label title="Archives for this section">ARCHIVES</label>
+            <a href="/news/archive/">1</a>,
+            <a href="/news/archive/page:2/">2</a>,
+            <a href="/news/archive/page:3/">3</a>,
+            <a href="/news/archive/page:4/">4</a>,
+            <a href="/news/archive/page:5/">5</a>,
+            <a href="/news/archive/page:6/">6</a>,
+            <a href="/news/archive/page:7/">7</a>,
+            <a href="/news/archive/page:8/">8</a>,
+            <a href="/news/archive/page:9/">9</a>,
+            <a href="/news/archive/page:10/">10</a>
+        </div>
+       <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nscalendar">
+<a href="/calendar/" class="arcLaunch" target="_self" alt="New York City Events and Concerts Calendar" title="New York City Events and Concerts Calendar" data-section="calendar" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Events']);">New York Events</a><a href="/events/search/" target="_self" alt="Top Picks" title="Top Picks" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Top Picks']);">Top Picks</a><a href="/feedback/SubmitAnEvent/" target="_self" alt="Submit an Event" title="Submit an Event" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Submit an Event']);">Submit an Event</a><a href="/samples/readers/?source_id=8|55|1379" target="_self" alt="Events Newsletter" title="Events Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Events Newsletter']);">Events Newsletter</a><a href="/promotions/mobileApps/" target="_self" alt="Get Mobile" title="Get Mobile" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Get Mobile']);">Get Mobile</a><a href="/adIndex/category/entertainment-77/" target="_self" alt="Entertainment Ads" title="Entertainment Ads" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Entertainment Ads']);">Entertainment Ads</a><a href="/authors/rob-brezsny/" target="_self" alt="Free Will Astrology" title="Free Will Astrology" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Free Will Astrology']);">Free Will Astrology</a><a href="http://tickets.villagevoice.com/" target="_self" alt="Tickets" title="Tickets" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Tickets']);">Tickets</a><a href="http://microapp.villagevoice.com/brooklyn-pour/" target="" alt="Brooklyn Pour 2013" title="Brooklyn Pour 2013" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Brooklyn Pour 2013']);">Brooklyn Pour 2013</a><a href="http://villagevoice.howaboutwe.com/" target="_self" alt="Dating" title="Dating" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Dating']);">Dating</a>   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsmusic">
+<a href="/music/" class="arcLaunch" target="_self" alt="New York City Music and Live Venues" title="New York City Music and Live Venues" data-section="music" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Music']);">New York Music</a><a href="http://blogs.villagevoice.com/music/" target="_self" alt="New York City Music Blog" title="New York City Music Blog" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Music Blog']);">Music Blog</a><a href="/concerts/" target="_self" alt="Concert Calendar" title="Concert Calendar" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Concert Calendar']);">Concert Calendar</a><a href="/pazznjop/" target="_self" alt="Pazz & Jop" title="Pazz & Jop" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Pazz & Jop']);">Pazz & Jop</a><a href="/directory/clubs/" target="_self" alt="New York City  Bars and Clubs" title="New York City  Bars and Clubs" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Nightlife']);">New York Nightlife</a><a href="/feedback/SubmitAnEvent/" target="_self" alt="Submit an Event" title="Submit an Event" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Submit an Event']);">Submit an Event</a><a href="/samples/readers/?source_id=8|55|1380" target="_self" alt="Music Newsletter" title="Music Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Music Newsletter']);">Music Newsletter</a><a href="http://www.voiceplaces.com/new-york/village-voice-music-channel-powered-by-zuus-media-4480224-e" target="_self" alt="Music Channel" title="Music Channel" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Music Channel']);">Music Channel</a><a href="http://coursehorse.com/villagevoice" target="" alt="Music Classes" title="Music Classes" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Music Classes']);">Music Classes</a><a href="http://blogs.villagevoice.com/music/2014/04/worst_of_coachella.php" target="" alt="Coachella 2014" title="Coachella 2014" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Coachella 2014']);">Coachella 2014</a>        <div class="archive music">
+            <label title="Archives for this section">ARCHIVES</label>
+            <a href="/music/archive/">1</a>,
+            <a href="/music/archive/page:2/">2</a>,
+            <a href="/music/archive/page:3/">3</a>,
+            <a href="/music/archive/page:4/">4</a>,
+            <a href="/music/archive/page:5/">5</a>,
+            <a href="/music/archive/page:6/">6</a>,
+            <a href="/music/archive/page:7/">7</a>,
+            <a href="/music/archive/page:8/">8</a>,
+            <a href="/music/archive/page:9/">9</a>,
+            <a href="/music/archive/page:10/">10</a>
+        </div>
+       <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsrestaurants">
+<a href="/restaurants/" class="arcLaunch" target="_self" alt="Restaurants in New York City" title="Restaurants in New York City" data-section="restaurants" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'NYC Restaurants']);">NYC Restaurants</a><a href="http://blogs.villagevoice.com/forkintheroad/" target="_self" alt="New York City Food Blog" title="New York City Food Blog" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Food Blog']);">Food Blog</a><a href="http://features.villagevoice.com/99_essential_restaurants_lower_manhattan/" target="_blank" alt="99 Essential Restaurants in Lower Manhattan" title="99 Essential Restaurants in Lower Manhattan" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', '99 Essential Restaurants']);">99 Essential Restaurants</a><a href="/restaurants/search/" target="_self" alt="Find a Restaurant" title="Find a Restaurant" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Find a Restaurant']);">Find a Restaurant</a><a href="http://happyhours.villagevoice.com/nyc/find/places" target="_self" alt="Happy Hours" title="Happy Hours" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Happy Hours']);">Happy Hours</a><a href="http://coursehorse.com/villagevoice" target="_self" alt="Cooking Classes" title="Cooking Classes" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Cooking Classes']);">Cooking Classes</a><a href="/samples/readers/?source_id=8|55|1381" target="_self" alt="Newsletter" title="Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Newsletter']);">Newsletter</a><a href="/promotions/mobileApps/" target="_self" alt="Mobile" title="Mobile" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Mobile']);">Mobile</a><a href="/adIndex/subcategory/restaurant-ads-416/" target="_self" alt="Ads" title="Ads" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Ads']);">Ads</a><a href="http://microapp.villagevoice.com/choicestreets/2014/" target="" alt="Choice Streets" title="Choice Streets" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Choice Streets']);">Choice Streets</a><a href="http://villagevoice.howaboutwe.com/" target="_self" alt="Dating" title="Dating" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Dating']);">Dating</a>        <div class="archive restaurants">
+            <label title="Archives for this section">ARCHIVES</label>
+            <a href="/restaurants/archive/">1</a>,
+            <a href="/restaurants/archive/page:2/">2</a>,
+            <a href="/restaurants/archive/page:3/">3</a>,
+            <a href="/restaurants/archive/page:4/">4</a>,
+            <a href="/restaurants/archive/page:5/">5</a>,
+            <a href="/restaurants/archive/page:6/">6</a>,
+            <a href="/restaurants/archive/page:7/">7</a>,
+            <a href="/restaurants/archive/page:8/">8</a>,
+            <a href="/restaurants/archive/page:9/">9</a>,
+            <a href="/restaurants/archive/page:10/">10</a>
+        </div>
+       <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsarts">
+<a href="/arts/" class="arcLaunch" target="_self" alt="Arts in New York City" title="Arts in New York City" data-section="arts" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Arts']);">New York Arts</a><a href="/theater/" target="_self" alt="New York City Theater and Plays" title="New York City Theater and Plays" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Theater']);">New York Theater</a><a href="/samples/readers/?source_id=8|55|1382" target="_self" alt="Arts Newsletter" title="Arts Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Arts Newsletter']);">Arts Newsletter</a><a href="/art/" target="_self" alt="Art" title="Art" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Art']);">Art</a><a href="/promotions/mobileApps/" target="_self" alt="Get Mobile" title="Get Mobile" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Get Mobile']);">Get Mobile</a><a href="/adIndex/category/entertainment-77/" target="_self" alt="Entertainment Ads" title="Entertainment Ads" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Entertainment Ads']);">Entertainment Ads</a><a href="http://obies.villagevoice.com/" target="" alt="Obie Awards" title="Obie Awards" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Obie Awards']);">Obie Awards</a><a href="/books/" target="" alt="Books" title="Books" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Books']);">Books</a><a href="/dance/" target="" alt="Dance" title="Dance" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Dance']);">Dance</a><a href="http://villagevoice.howaboutwe.com/" target="_self" alt="Dating" title="Dating" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Dating']);">Dating</a><a href="http://coursehorse.com/villagevoice" target="" alt="Art & Dance Classes" title="Art & Dance Classes" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Art & Dance Classes']);">Art & Dance Classes</a>        <div class="archive arts">
+            <label title="Archives for this section">ARCHIVES</label>
+            <a href="/arts/archive/">1</a>,
+            <a href="/arts/archive/page:2/">2</a>,
+            <a href="/arts/archive/page:3/">3</a>,
+            <a href="/arts/archive/page:4/">4</a>,
+            <a href="/arts/archive/page:5/">5</a>,
+            <a href="/arts/archive/page:6/">6</a>,
+            <a href="/arts/archive/page:7/">7</a>,
+            <a href="/arts/archive/page:8/">8</a>,
+            <a href="/arts/archive/page:9/">9</a>,
+            <a href="/arts/archive/page:10/">10</a>
+        </div>
+       <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsfilm">
+<a href="/movies/" class="arcLaunch" target="_self" alt="Movies and reviews in New York City" title="Movies and reviews in New York City" data-section="film" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Movies']);">New York Movies</a><a href="/movies/theaters/" target="_self" alt="Showtimes" title="Showtimes" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Showtimes']);">Showtimes</a><a href="http://www.villagevoice.com/movies/trailers/" target="" alt="Trailers" title="Trailers" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Trailers']);">Trailers</a><a href="/filmpoll/" target="_self" alt="2013 Film Poll" title="2013 Film Poll" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', '2013 Film Poll']);">2013 Film Poll</a><a href="https://itunes.apple.com/us/podcast/voice-film-club/id686641853?mt=2" target="_blank" alt="Podcast" title="Podcast" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Podcast']);">Podcast</a><a href="/samples/readers/?source_id=8|55|1383" target="_self" alt="Film Newsletter" title="Film Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Film Newsletter']);">Film Newsletter</a><a href="http://www.villagevoice.com/authors/stephanie-zacharek/" target="" alt="Film Reviews by Stephanie Zacharek" title="Film Reviews by Stephanie Zacharek" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Stephanie Zacharek']);">Stephanie Zacharek</a><a href="http://www.villagevoice.com/repfilm/" target="_self" alt="Repertory Film" title="Repertory Film" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Repertory Film']);">Repertory Film</a><a href="/promotions/mobileApps/" target="_self" alt="Get Mobile" title="Get Mobile" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Get Mobile']);">Get Mobile</a><a href="/promotions/freestuff/" target="_self" alt="Free Stuff" title="Free Stuff" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Free Stuff']);">Free Stuff</a><a href="http://villagevoice.howaboutwe.com/" target="_self" alt="Dating" title="Dating" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Dating']);">Dating</a>   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsvideo">
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsbestof">
+<a href="/bestof/" class="arcLaunch" target="_self" alt="Things to see in New York" title="Things to see in New York" data-section="bestof" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Things to do in New York']);">Things to do in New York</a><a href="/bestOf/index/2013/" target="_self" alt="2013" title="2013" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', '2013']);">2013</a><a href="/bestOf/index/2012/" target="_self" alt="2012" title="2012" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', '2012']);">2012</a><a href="/bestOf/index/2011/" target="_self" alt="2011" title="2011" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', '2011']);">2011</a><a href="/bestOf/index/2010/" target="_self" alt="2010" title="2010" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', '2010']);">2010</a><a href="/samples/readers/?source_id=8|55|1384" target="_self" alt="Best Of Newsletter" title="Best Of Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Best Of Newsletter']);">Best Of Newsletter</a><a href="/promotions/mobileApps/" target="_self" alt="Get Mobile" title="Get Mobile" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Get Mobile']);">Get Mobile</a><a href="/adIndex/subcategory/best-of-new-york-596/" target="_self" alt="Best Of Ads" title="Best Of Ads" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Best Of Ads']);">Best Of Ads</a>   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nspromotions">
+<a href="/promotions/" class="arcLaunch" target="_self" alt="New York Promotions" title="New York Promotions" data-section="promotions" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Promotions']);">New York Promotions</a><a href="/promotions/events" target="_self" alt="Promotional Events" title="Promotional Events" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Promotional Events']);">Promotional Events</a><a href="/promotions/streetteams/" target="_self" alt="Street Team" title="Street Team" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Street Team']);">Street Team</a><a href="/promotions/freestuff/" target="_self" alt="Free Stuff" title="Free Stuff" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Free Stuff']);">Free Stuff</a><a href="/samples/readers/?source_id=8|55|1385" target="_self" alt="Promotions Newsletter" title="Promotions Newsletter" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Promotions Newsletter']);">Promotions Newsletter</a><a href="http://www.villagevoice.com/microsites/village-voice-music-channel/" target="" alt="Village Voice Music Video Player" title="Village Voice Music Video Player" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Village Voice Music Video Player']);">Village Voice Music Video Player</a><a href="http://coupons.villagevoice.com/" target="_self" alt="Buys" title="Buys" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Buys']);">Buys</a><a href="http://tickets.villagevoice.com/" target="_self" alt="Tickets" title="Tickets" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Tickets']);">Tickets</a>   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsclassifieds">
+<a href="/classifieds/" class="arcLaunch" target="_self" alt="New York Classifieds" title="New York Classifieds" data-section="classifieds" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'New York Classifieds']);">New York Classifieds</a><a href="http://www.villagevoice.com/feedback/EmailAnEmployee?department=classified" target="_blank" alt="Post an Ad" title="Post an Ad" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Post an Ad']);">Post an Ad</a><a href="http://www.villagevoice.com/microsites/medical-studies/" target="_self" alt="Medical Studies" title="Medical Studies" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Medical Studies']);">Medical Studies</a><a href="/adIndex/" target="_self" alt="Advertiser Index" title="Advertiser Index" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Advertiser Index']);">Advertiser Index</a><a href="http://coupons.villagevoice.com/" target="_self" alt="Buys" title="Buys" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'Buys']);">Buys</a><a href="/afterdark/" target="" alt="After Dark" title="After Dark" onClick="_gaq.push(['_trackEvent', 'Nav', 'Click', 'After Dark']);">After Dark</a>   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ </div>
+
+<script type='text/javascript'>
+  var VVM__NavBar = new NavBar({
+    alwaysActiveSubNav: typeof subnavsection !== 'undefined' ? subnavsection : false
+  });
+</script>
+
+ <!-- end newNavBar law -->
+    </div>
+
+    <!-- NOGSA -->
+<div class="Ads" id="Middle3">
+    <script type="text/javascript">
+        <!--
+        OAS_AD('Middle3');
+        //-->
+    </script>
+</div>
+<!-- /NOGSA -->
+    <div class='Content'>
+        <div class='innerBody'>
+         <div class="music concerts " ><div class="triplebar " ></div>
+<div class="widget trackme" name="ConcertCalendarNew"><div class="concertCalendarNew" >
+    <div class="headerBox">
+        <div class="header">
+            <div id="monthShown">
+                April            </div>
+            <div id="resultSet">
+                Concert Calendar            </div>
+        </div>
+        <span class="shuffleArrow shuffleLeft" style="display:none;" ></span>
+        <span class="shuffleArrow shuffleRight" data-id="2014-05-03"></span>
+        <ul>
+                            <li class="dayOfWeek active" id="Sat" data-id="2014-04-26">
+                    <div>Sat</div>
+                    <span>26</span>
+                </li>
+                            <li class="dayOfWeek " id="Sun" data-id="2014-04-27">
+                    <div>Sun</div>
+                    <span>27</span>
+                </li>
+                            <li class="dayOfWeek " id="Mon" data-id="2014-04-28">
+                    <div>Mon</div>
+                    <span>28</span>
+                </li>
+                            <li class="dayOfWeek " id="Tue" data-id="2014-04-29">
+                    <div>Tue</div>
+                    <span>29</span>
+                </li>
+                            <li class="dayOfWeek " id="Wed" data-id="2014-04-30">
+                    <div>Wed</div>
+                    <span>30</span>
+                </li>
+                            <li class="dayOfWeek " id="Thu" data-id="2014-05-01">
+                    <div>Thu</div>
+                    <span>1</span>
+                </li>
+                            <li class="dayOfWeek " id="Fri" data-id="2014-05-02">
+                    <div>Fri</div>
+                    <span>2</span>
+                </li>
+                    </ul>
+        <div id="return-to-calendar" style="display:none;" >Return to calendar view</div>
+    </div>
+    <div id="concertCalendarData">
+        <table id="ccTable" >
+    <colgroup>
+        <col class="" id="colArtist" />
+                <col class="" id="colVenue" />
+        <col class="" id="colPrice" />
+    </colgroup>
+    <tr>
+        <th class="" data-id="artist" title="Sort by Artist">
+            <div>Artist<span class="artist arrow asc" class="artist"></span></div>
+        </th>
+                <th class="" data-id="venue" title="Sort by Venue">
+            <div>Venue<span class="venue arrow asc" class="venue"></span></div>
+        </th>
+        <th class="" data-id="price" title="Sort by Price">
+            <div>Price<span class="price arrow asc"></span></div>
+        </th>
+    </tr>
+                        <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Pet Shop Boys"></span>
+                     <span itemprop="location" content="Terminal 5"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$55"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 21:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/pet-shop-boys-4660561/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/pet-shop-boys-4660561-e">
+                        Pet Shop Boys                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/terminal-5-2450633-l">
+                        Terminal 5                    </a>
+                </td>
+                <td>
+                    $55                                        <tiqiq VVEventID='4660561' VVUniqueId='nyv-4660561' VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Natalie Merchant"></span>
+                     <span itemprop="location" content="Carnegie Hall"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$10-$22"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 15:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/natalie-merchant-4685271/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/natalie-merchant-4685271-e">
+                        Natalie Merchant                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/carnegie-hall-2496255-l">
+                        Carnegie Hall                    </a>
+                </td>
+                <td>
+                    $10-$22                                        <tiqiq VVEventID='4685271' VVUniqueId='nyv-4685271' VVURL="http://www.carnegiehall.org/Calendar/" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Slaughterhouse"></span>
+                     <span itemprop="location" content="Best Buy Theater"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$26.50-$30"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/slaughterhouse-4562547/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/slaughterhouse-4562547-e">
+                        Slaughterhouse                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/best-buy-theater-2471398-l">
+                        Best Buy Theater                    </a>
+                </td>
+                <td>
+                    $26.50-$30                                        <tiqiq VVEventID='4562547' VVUniqueId='nyv-4562547' VVURL="http://www.bestbuytheater.com/events" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Varsity Vocals"></span>
+                     <span itemprop="location" content="Town Hall"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$47-$117"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/the-varsity-vocals-international-championship-of-collegiate-a-cappella-icca-4691799/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/the-varsity-vocals-international-championship-of-collegiate-a-cappella-icca-4691799-e">
+                        Varsity Vocals                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/town-hall-2479565-l">
+                        Town Hall                    </a>
+                </td>
+                <td>
+                    $47-$117                                        <tiqiq VVEventID='4691799' VVUniqueId='nyv-4691799' VVURL="http://thetownhall.org/index.php" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Strawberry Fields"></span>
+                     <span itemprop="location" content="B.B. King's"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$40/$42.50"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 12:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/beatles-brunch-800394/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-beatles-brunch--800394-e">
+                        Strawberry Fields                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/b-b-king-s-2501013-l">
+                        B.B. King's                    </a>
+                </td>
+                <td>
+                    $40/$42.50                                        <tiqiq VVEventID='800394' VVUniqueId='nyv-800394' VVURL="http://www.bbkingblues.com/calendar.php" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="'Barstool Blackout Tour'"></span>
+                     <span itemprop="location" content="Irving Plaza"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$35"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 21:30:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/the-barstool-blackout-tour-4699212/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-the-barstool-blackout-tour--4699212-e">
+                        'Barstool Blackout Tour'                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/irving-plaza-2506248-l">
+                        Irving Plaza                    </a>
+                </td>
+                <td>
+                    $35                                        <tiqiq VVEventID='4699212' VVUniqueId='nyv-4699212' VVURL="http://venue.irvingplaza.com/" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Jessie's Girl"></span>
+                     <span itemprop="location" content="(le) Poisson Rouge"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$17/$20"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/back-to-the-80s-show-w-jessies-girl-1183594/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-back-to-the-80s-show-w-jessie-s-girl-1183594-e">
+                        Jessie's Girl                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/le-poisson-rouge-2496205-l">
+                        (le) Poisson Rouge                    </a>
+                </td>
+                <td>
+                    $17/$20                                        <tiqiq VVEventID='1183594' VVUniqueId='nyv-1183594' VVURL="http://www.tiqiq.com/BackOffice/Cpc/CpcRedirector.ashx?AssetId=702" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Galantis"></span>
+                     <span itemprop="location" content="Bowery Ballroom"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$30"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 21:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/galantis-4671333/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/galantis-4671333-e">
+                        Galantis                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/bowery-ballroom-2488703-l">
+                        Bowery Ballroom                    </a>
+                </td>
+                <td>
+                    $30                                        <tiqiq VVEventID='4671333' VVUniqueId='nyv-4671333' VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Back2Basic"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Back2Basic                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Pantrin Vibes"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Pantrin Vibes                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Wax"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Wax                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Natural Freaks"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Natural Freaks                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Staks"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Staks                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Majesty"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Majesty                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Norie"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Norie                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Kevin Crown"></span>
+                     <span itemprop="location" content="S.O.B.'s"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$15"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-caribbean-saturdays-w-back2basic-pantrin-vibes-wax-natural-freaks-staks-majesty-norie-kevin-crown-3842304-e">
+                        Kevin Crown                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/s-o-b-s-2494436-l">
+                        S.O.B.'s                    </a>
+                </td>
+                <td>
+                    $15                                        <tiqiq VVEventID='3842304' VVUniqueId='nyv-3842304' VVURL="http://sobs.com/" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Sol Cat"></span>
+                     <span itemprop="location" content="Cameo Gallery"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$10-$12"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/sol-cat-4695658/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/sol-cat-4695658-e">
+                        Sol Cat                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/cameo-gallery-2960849-l">
+                        Cameo Gallery                    </a>
+                </td>
+                <td>
+                    $10-$12                                        <tiqiq VVEventID='4695658' VVUniqueId='nyv-4695658' VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Miss Laurie Ann and The Saddletones"></span>
+                     <span itemprop="location" content="Rodeo Bar"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/miss-laurie-ann-and-the-saddletones-4702544/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/miss-laurie-ann-and-the-saddletones-4702544-e">
+                        Miss Laurie Ann and T...                     </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/rodeo-bar-2488196-l">
+                        Rodeo Bar                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Jay Leonhart Duo"></span>
+                     <span itemprop="location" content="Birdland"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$30"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 18:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/jay-leonhart-duo-4697728/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/jay-leonhart-duo-4697728-e">
+                        Jay Leonhart Duo                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/birdland-2500370-l">
+                        Birdland                    </a>
+                </td>
+                <td>
+                    $30                                        <tiqiq VVEventID='4697728' VVUniqueId='nyv-4697728' VVURL="http://www.birdlandjazz.com/calendar/" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Stanley Clarke"></span>
+                     <span itemprop="location" content="Blue Note"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$30-$45"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/stanley-clarke-4621441/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/stanley-clarke-4621441-e">
+                        Stanley Clarke                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/blue-note-2492207-l">
+                        Blue Note                    </a>
+                </td>
+                <td>
+                    $30-$45                                        <tiqiq VVEventID='4621441' VVUniqueId='nyv-4621441' VVURL="http://www.tiqiq.com/BackOffice/Cpc/CpcRedirector.ashx?AssetId=2542" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Gina Bon Jersey"></span>
+                     <span itemprop="location" content="Bowery Electric"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/electric-feel-w-gina-bon-jersey-michael-stella-star-steven-baggs-3751768/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-electric-feel-w-gina-bon-jersey-michael-stella-star-steven-baggs-3751768-e">
+                        Gina Bon Jersey                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/bowery-electric-2491324-l">
+                        Bowery Electric                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Michael Stella Star"></span>
+                     <span itemprop="location" content="Bowery Electric"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/electric-feel-w-gina-bon-jersey-michael-stella-star-steven-baggs-3751768/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-electric-feel-w-gina-bon-jersey-michael-stella-star-steven-baggs-3751768-e">
+                        Michael Stella Star                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/bowery-electric-2491324-l">
+                        Bowery Electric                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Steven Baggs"></span>
+                     <span itemprop="location" content="Bowery Electric"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/electric-feel-w-gina-bon-jersey-michael-stella-star-steven-baggs-3751768/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-electric-feel-w-gina-bon-jersey-michael-stella-star-steven-baggs-3751768-e">
+                        Steven Baggs                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/bowery-electric-2491324-l">
+                        Bowery Electric                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="K'naan"></span>
+                     <span itemprop="location" content="Joe's Pub"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$25"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 23:30:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/knaan-4674635/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/k-naan-4674635-e">
+                        K'naan                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/joe-s-pub-2501916-l">
+                        Joe's Pub                    </a>
+                </td>
+                <td>
+                    $25                                        <tiqiq VVEventID='4674635' VVUniqueId='nyv-4674635' VVURL="http://www.tiqiq.com/BackOffice/Cpc/CpcRedirector.ashx?AssetId=2556" ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="The Bad Plus"></span>
+                     <span itemprop="location" content="Jazz Standard"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$20"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 19:30:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/the-bad-plus-4695734/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/the-bad-plus-4695734-e">
+                        The Bad Plus                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/jazz-standard-2480891-l">
+                        Jazz Standard                    </a>
+                </td>
+                <td>
+                    $20                                        <tiqiq VVEventID='4695734' VVUniqueId='nyv-4695734' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Andrew W.K."></span>
+                     <span itemprop="location" content="Subculture"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$25-$30"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 19:30:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/andrew-w-k--4699732/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/andrew-w-k--4699732-e">
+                        Andrew W.K.                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/subculture-38450938-l">
+                        Subculture                    </a>
+                </td>
+                <td>
+                    $25-$30                                        <tiqiq VVEventID='4699732' VVUniqueId='nyv-4699732' VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Andrew White Quartet"></span>
+                     <span itemprop="location" content="Jazz Gallery"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$10-$22"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 21:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/andrew-white-quartet-4697739/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/andrew-white-quartet-4697739-e">
+                        Andrew White Quartet                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/jazz-gallery-2493263-l">
+                        Jazz Gallery                    </a>
+                </td>
+                <td>
+                    $10-$22                                        <tiqiq VVEventID='4697739' VVUniqueId='nyv-4697739' VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="The Holmes Brothers"></span>
+                     <span itemprop="location" content="Iridium"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="430"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:30:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/the-holmes-brothers-4621475/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/the-holmes-brothers-4621475-e">
+                        The Holmes Brothers                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/iridium-2466425-l">
+                        Iridium                    </a>
+                </td>
+                <td>
+                    430                                        <tiqiq VVEventID='4621475' VVUniqueId='nyv-4621475' VVURL="http://theiridium.com/calendar/" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Jeremy Bastard"></span>
+                     <span itemprop="location" content="Beauty Bar"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/re-make-re-model-w-jeremy-bastard-michael-t-twig-the-wonderkid-4628990/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-re-make-re-model-w-jeremy-bastard-michael-t-twig-the-wonderkid-4628990-e">
+                        Jeremy Bastard                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/beauty-bar-2491639-l">
+                        Beauty Bar                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Michael T."></span>
+                     <span itemprop="location" content="Beauty Bar"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/re-make-re-model-w-jeremy-bastard-michael-t-twig-the-wonderkid-4628990/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-re-make-re-model-w-jeremy-bastard-michael-t-twig-the-wonderkid-4628990-e">
+                        Michael T.                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/beauty-bar-2491639-l">
+                        Beauty Bar                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Twig the Wonderkid"></span>
+                     <span itemprop="location" content="Beauty Bar"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/re-make-re-model-w-jeremy-bastard-michael-t-twig-the-wonderkid-4628990/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/-re-make-re-model-w-jeremy-bastard-michael-t-twig-the-wonderkid-4628990-e">
+                        Twig the Wonderkid                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/beauty-bar-2491639-l">
+                        Beauty Bar                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Tommy Tune"></span>
+                     <span itemprop="location" content="Cafe Carlyle"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$70-$130"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:45:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/tommy-tune-4687996/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/tommy-tune-4687996-e">
+                        Tommy Tune                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/cafe-carlyle-2500728-l">
+                        Cafe Carlyle                    </a>
+                </td>
+                <td>
+                    $70-$130                                        <tiqiq VVEventID='4687996' VVUniqueId='nyv-4687996' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="Amir Nojan &amp; the Nava Ensemble"></span>
+                     <span itemprop="location" content="Roulette Brooklyn"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="$25"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 20:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/amir-nojan-and-the-nava-ensemble-4687973/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/amir-nojan-and-the-nava-ensemble-4687973-e">
+                        Amir Nojan & the Nava...                     </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/roulette-brooklyn-4384986-l">
+                        Roulette Brooklyn                    </a>
+                </td>
+                <td>
+                    $25                                        <tiqiq VVEventID='4687973' VVUniqueId='nyv-4687973' VVURL="http://www.tiqiq.com/BackOffice/Cpc/CpcRedirector.ashx?AssetId=740" VVEventDate='2014-04-26' ></tiqiq>                </td>
+            </tr>
+                    <tr>
+                <td>
+                                    
+                    <span itemscope itemtype="http://schema.org/Event">       
+                     <span itemprop="name" content="DJ Fancy"></span>
+                     <span itemprop="location" content="The Delancey"></span>
+                     
+                     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                      <span itemprop="price" content="free"></span>  
+                     </span>
+                                         <span itemprop="startDate" content="2014-04-26 22:00:00"></span>              
+                     <link itemprop="url" href="http://www.villagevoice.com/events/dj-fancy-4628790/" /> 
+                    </span> 
+               
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/dj-fancy-4628790-e">
+                        DJ Fancy                    </a>
+                </td>
+                <td>
+                    <a target="_concerts" href="http://www.voiceplaces.com/new-york/the-delancey-2459722-l">
+                        The Delancey                    </a>
+                </td>
+                <td>
+                    free                                        <!--free-->                </td>
+            </tr>
+                </table>    </div>
+    <script type="text/javascript">
+        var vvm_concertCalendar = new ConcertCalendar({
+            limit: '1000',
+            type: '',
+            keywords: ''
+        });
+    </script>
+</div>
+
+    <script type="text/javascript">
+    $(function(){
+        if (typeof window.QueryTiqiq == 'function') {
+            window.QueryTiqiq();
+        } else {
+            window.QueryTiqiq = function(){};
+            $.ajax({
+                url: 'http://www.tiqiq.com/jscripts/VillageVoice.js',
+                dataType: "script",
+                cache: true,
+                complete: function(){
+                    var tiqIQOriginalDataProcess;
+                    if (typeof window.TiqiqDataProcess == 'function') {
+                        tiqIQOriginalDataProcess = window.TiqiqDataProcess;
+                        window.TiqiqDataProcess = function(){
+                            tiqIQOriginalDataProcess.apply(window, arguments);
+                            $(document).trigger('load.tiqiq');
+                        }
+                    };
+                }
+            });
+        }
+    });
+</script></div><div class="right_content music concertRail " ><div class="widget trackme" name="ConcertCalendarSearch"><div class="ccSearch">
+ <div class="inner">
+     <form action="/concerts/" method="post"/>
+   <div class="inputBox">
+    Find Any Show
+    <input type="text" name="keywords" id="ccKeywords" value="Keyword Search"/>
+   </div>
+   <select name="artist" id="ccArtist">
+        <option value="">Select Artist</option>
+            <option value="$MoneyMike$">$MoneyMike$</option>
+            <option value="'Barstool Blackout Tour'">'Barstool Blackout Tour'</option>
+            <option value="'Girls & Boys'">'Girls & Boys'</option>
+            <option value="4Knots Music Festival">4Knots Music Festival</option>
+            <option value="A$AP Ferg">A$AP Ferg</option>
+            <option value="A-Trak">A-Trak</option>
+            <option value="Adam Lambert">Adam Lambert</option>
+            <option value="Agarrate Catalina">Agarrate Catalina</option>
+            <option value="Aimee Mann">Aimee Mann</option>
+            <option value="AIMES">AIMES</option>
+            <option value="Air Zaire">Air Zaire</option>
+            <option value="AJR">AJR</option>
+            <option value="Alden Penner">Alden Penner</option>
+            <option value="Alice Cooper">Alice Cooper</option>
+            <option value="Alison Krauss and Union Station">Alison Krauss and Union Station</option>
+            <option value="All Time Low">All Time Low</option>
+            <option value="Amir Nojan & the Nava Ensemble">Amir Nojan & the Nava Ensemble</option>
+            <option value="Amos Lee">Amos Lee</option>
+            <option value="AndrÃ©a Burns">Andréa Burns</option>
+            <option value="Andrew W.K.">Andrew W.K.</option>
+            <option value="Andrew White Quartet">Andrew White Quartet</option>
+            <option value="Andy Kim">Andy Kim</option>
+            <option value="Annie Gosfield">Annie Gosfield</option>
+            <option value="Annie Ross">Annie Ross</option>
+            <option value="Arturo O'Farrill Afro Latin Jazz Orchestra">Arturo O'Farrill Afro Latin Jazz Orchestra</option>
+            <option value="Arturo Oâ€™Farrill Afro Latin Jazz Orchestra">Arturo O?Farrill Afro Latin Jazz Orchestra</option>
+            <option value="Asking Alexandria">Asking Alexandria</option>
+            <option value="Austin Mahone">Austin Mahone</option>
+            <option value="Authority Zero">Authority Zero</option>
+            <option value="Avenged Sevenfold">Avenged Sevenfold</option>
+            <option value="AVICII">AVICII</option>
+            <option value="Back2Basic">Back2Basic</option>
+            <option value="Bahamas">Bahamas</option>
+            <option value="Barbara Carroll">Barbara Carroll</option>
+            <option value="Barry Gibb">Barry Gibb</option>
+            <option value="Battlecross">Battlecross</option>
+            <option value="Beck">Beck</option>
+            <option value="Ben Kweller">Ben Kweller</option>
+            <option value="Bernhoft">Bernhoft</option>
+            <option value="Billy Currington">Billy Currington</option>
+            <option value="Billy Joel">Billy Joel</option>
+            <option value="Billy Kaye">Billy Kaye</option>
+            <option value="Black Label Society">Black Label Society</option>
+            <option value="Black Stone Cherry">Black Stone Cherry</option>
+            <option value="Bombay Bicycle Club">Bombay Bicycle Club</option>
+            <option value="Bossa Nova Trio">Bossa Nova Trio</option>
+            <option value="Boz Scaggs">Boz Scaggs</option>
+            <option value="Brandon Lewis">Brandon Lewis</option>
+            <option value="Bruno Mars">Bruno Mars</option>
+            <option value="Butcher Babies">Butcher Babies</option>
+            <option value="Butchers and Bakers">Butchers and Bakers</option>
+            <option value="Cage The Elephant">Cage The Elephant</option>
+            <option value="Cam'ron">Cam'ron</option>
+            <option value="Capital Cities">Capital Cities</option>
+            <option value="CeCe Winans">CeCe Winans</option>
+            <option value="Chamber Band">Chamber Band</option>
+            <option value="Cher">Cher</option>
+            <option value="Chester Gregory">Chester Gregory</option>
+            <option value="Chicago">Chicago</option>
+            <option value="Chicha Libre">Chicha Libre</option>
+            <option value="Chromeo">Chromeo</option>
+            <option value="Chuck Negron">Chuck Negron</option>
+            <option value="CHVRCHES">CHVRCHES</option>
+            <option value="Circulatory System">Circulatory System</option>
+            <option value="Cissy Houston">Cissy Houston</option>
+            <option value="Clarence Spady Band">Clarence Spady Band</option>
+            <option value="Cloud Becomes Your Hand">Cloud Becomes Your Hand</option>
+            <option value="Coldplay">Coldplay</option>
+            <option value="Colt Ford">Colt Ford</option>
+            <option value="Company Freak">Company Freak</option>
+            <option value="Connan Mockasin">Connan Mockasin</option>
+            <option value="Craig Leon">Craig Leon</option>
+            <option value="Creedence Clearwater Revisited">Creedence Clearwater Revisited</option>
+            <option value="Dan Nuestadt">Dan Nuestadt</option>
+            <option value="Darius Jones">Darius Jones</option>
+            <option value="Dark Star Orchestra">Dark Star Orchestra</option>
+            <option value="Dave Matthews Band">Dave Matthews Band</option>
+            <option value="David Ayer">David Ayer</option>
+            <option value="David Ostwald">David Ostwald</option>
+            <option value="Denis Matsuev">Denis Matsuev</option>
+            <option value="Devil You Know">Devil You Know</option>
+            <option value="Devo">Devo</option>
+            <option value="Devyn Rush">Devyn Rush</option>
+            <option value="Diana Ross">Diana Ross</option>
+            <option value="DJ Amoroso">DJ Amoroso</option>
+            <option value="DJ Autograph">DJ Autograph</option>
+            <option value="DJ Butta">DJ Butta</option>
+            <option value="DJ Fancy">DJ Fancy</option>
+            <option value="DJ Jay McElfresh">DJ Jay McElfresh</option>
+            <option value="DJ Patrick">DJ Patrick</option>
+            <option value="DJ Purevile!">DJ Purevile!</option>
+            <option value="DJ Skizz">DJ Skizz</option>
+            <option value="DJ Soko">DJ Soko</option>
+            <option value="DJ Wookee">DJ Wookee</option>
+            <option value="Dorothy Norwood">Dorothy Norwood</option>
+            <option value="Dottie Peoples">Dottie Peoples</option>
+            <option value="Down">Down</option>
+            <option value="Drag the River">Drag the River</option>
+            <option value="Eastern Midwestern">Eastern Midwestern</option>
+            <option value="Eddie Palmieri Latin Jazz Band">Eddie Palmieri Latin Jazz Band</option>
+            <option value="Eden Espinosa">Eden Espinosa</option>
+            <option value="Emanuel Ax">Emanuel Ax</option>
+            <option value="Eminem">Eminem</option>
+            <option value="Enrico Pieranunzi">Enrico Pieranunzi</option>
+            <option value="Eric Harland's Voyager">Eric Harland's Voyager</option>
+            <option value="Eric Roberson and the Collective">Eric Roberson and the Collective</option>
+            <option value="Erica Campbell">Erica Campbell</option>
+            <option value="Fall Out Boy">Fall Out Boy</option>
+            <option value="Feral Foster">Feral Foster</option>
+            <option value="Fifth Harmony">Fifth Harmony</option>
+            <option value="Flames of Fury">Flames of Fury</option>
+            <option value="Fleetwood Mac">Fleetwood Mac</option>
+            <option value="Flo & Eddie">Flo & Eddie</option>
+            <option value="Foals">Foals</option>
+            <option value="Fran&ccedil;ois K">Fran&ccedil;ois K</option>
+            <option value="Future Islands">Future Islands</option>
+            <option value="Galantis">Galantis</option>
+            <option value="Gasoline Heart">Gasoline Heart</option>
+            <option value="Gelsey Bell">Gelsey Bell</option>
+            <option value="Ghost">Ghost</option>
+            <option value="Gina Bon Jersey">Gina Bon Jersey</option>
+            <option value="Gloriana">Gloriana</option>
+            <option value="Gojira">Gojira</option>
+            <option value="Gospel Queens of Brooklyn">Gospel Queens of Brooklyn</option>
+            <option value="Gothic Knights">Gothic Knights</option>
+            <option value="Grandma Sparrow">Grandma Sparrow</option>
+            <option value="HAIM">HAIM</option>
+            <option value="Handguns">Handguns</option>
+            <option value="Harry Allen">Harry Allen</option>
+            <option value="Hot Tuna">Hot Tuna</option>
+            <option value="Hunter Hunted">Hunter Hunted</option>
+            <option value="I Puritani">I Puritani</option>
+            <option value="Icona Pop">Icona Pop</option>
+            <option value="Ingrid Michaelson">Ingrid Michaelson</option>
+            <option value="Insect Ark">Insect Ark</option>
+            <option value="Into Another">Into Another</option>
+            <option value="Intronaut">Intronaut</option>
+            <option value="J Roddy Walston And The Business">J Roddy Walston And The Business</option>
+            <option value="Jack Johnson">Jack Johnson</option>
+            <option value="Jack White">Jack White</option>
+            <option value="Jackson Browne">Jackson Browne</option>
+            <option value="Jake Owen">Jake Owen</option>
+            <option value="James Blunt">James Blunt</option>
+            <option value="James Taylor">James Taylor</option>
+            <option value="Jason Moran">Jason Moran</option>
+            <option value="Jay Leonhart Duo">Jay Leonhart Duo</option>
+            <option value="Jeff Beck">Jeff Beck</option>
+            <option value="Jeffrey Osborne">Jeffrey Osborne</option>
+            <option value="Jen Shyu">Jen Shyu</option>
+            <option value="Jenn Colella">Jenn Colella</option>
+            <option value="Jennifer Choi">Jennifer Choi</option>
+            <option value="Jenny Hval">Jenny Hval</option>
+            <option value="Jeremy Bastard">Jeremy Bastard</option>
+            <option value="Jerry Douglas">Jerry Douglas</option>
+            <option value="Jesse Simpson">Jesse Simpson</option>
+            <option value="Jessie's Girl">Jessie's Girl</option>
+            <option value="Jim Caruso">Jim Caruso</option>
+            <option value="Jim Caruso & Billy Stritch">Jim Caruso & Billy Stritch</option>
+            <option value="Joe Nichols">Joe Nichols</option>
+            <option value="Joey Carvello">Joey Carvello</option>
+            <option value="John Butler Trio">John Butler Trio</option>
+            <option value="John Farnsworth Quintet">John Farnsworth Quintet</option>
+            <option value="John Fogerty">John Fogerty</option>
+            <option value="John Legend">John Legend</option>
+            <option value="Johnny Hallyday">Johnny Hallyday</option>
+            <option value="Jolie Holland">Jolie Holland</option>
+            <option value="Joonsam Lee">Joonsam Lee</option>
+            <option value="Just Blaze">Just Blaze</option>
+            <option value="Justin Timberlake">Justin Timberlake</option>
+            <option value="K'naan">K'naan</option>
+            <option value="Kacey Musgraves">Kacey Musgraves</option>
+            <option value="Kansaas">Kansaas</option>
+            <option value="Karen Oberlin">Karen Oberlin</option>
+            <option value="Karrastafari Sound">Karrastafari Sound</option>
+            <option value="Kate Berlant">Kate Berlant</option>
+            <option value="Kate Davis">Kate Davis</option>
+            <option value="Katy Perry">Katy Perry</option>
+            <option value="Kazu Trio">Kazu Trio</option>
+            <option value="Keith Ingham">Keith Ingham</option>
+            <option value="Kelis">Kelis</option>
+            <option value="Kevin Crown">Kevin Crown</option>
+            <option value="Kevin Drew">Kevin Drew</option>
+            <option value="Kevin Hedge">Kevin Hedge</option>
+            <option value="Killcode">Killcode</option>
+            <option value="Killswitch Engage">Killswitch Engage</option>
+            <option value="Kim Burrell">Kim Burrell</option>
+            <option value="Kobi Arad Band">Kobi Arad Band</option>
+            <option value="Korn">Korn</option>
+            <option value="Kosmosdemonic">Kosmosdemonic</option>
+            <option value="Kristeen Young">Kristeen Young</option>
+            <option value="Kristin Chenoweth">Kristin Chenoweth</option>
+            <option value="Kuntry Karaoke">Kuntry Karaoke</option>
+            <option value="Kvelertak">Kvelertak</option>
+            <option value="La Sera">La Sera</option>
+            <option value="Lady Antebellum">Lady Antebellum</option>
+            <option value="Lady Gaga">Lady Gaga</option>
+            <option value="Laura Ortman">Laura Ortman</option>
+            <option value="Laurie Anderson">Laurie Anderson</option>
+            <option value="Led Zeppelin Experience">Led Zeppelin Experience</option>
+            <option value="Leon Russell">Leon Russell</option>
+            <option value="Lindsey Stirling">Lindsey Stirling</option>
+            <option value="Lo-Fang">Lo-Fang</option>
+            <option value="Louie Vega">Louie Vega</option>
+            <option value="Low Cut Connie">Low Cut Connie</option>
+            <option value="Luke Bryan">Luke Bryan</option>
+            <option value="M.I.A.">M.I.A.</option>
+            <option value="Majesty">Majesty</option>
+            <option value="Man Overboard">Man Overboard</option>
+            <option value="Manchester Orchestra">Manchester Orchestra</option>
+            <option value="Margot & the Nuclear So & So's">Margot & the Nuclear So & So's</option>
+            <option value="Mario Diaz de Leon">Mario Diaz de Leon</option>
+            <option value="Mark Farner">Mark Farner</option>
+            <option value="Mark Nadler">Mark Nadler</option>
+            <option value="Mary Halvorson">Mary Halvorson</option>
+            <option value="Mastodon">Mastodon</option>
+            <option value="Max Glazer">Max Glazer</option>
+            <option value="MÃ¶tley CrÃ¼e">Mötley Crüe</option>
+            <option value="Megafaun">Megafaun</option>
+            <option value="Melba Moore">Melba Moore</option>
+            <option value="Melissa Aldana Quartet">Melissa Aldana Quartet</option>
+            <option value="Michael BublÃ©">Michael Bublé</option>
+            <option value="Michael Feinstein">Michael Feinstein</option>
+            <option value="Michael Powers">Michael Powers</option>
+            <option value="Michael Powers Frequence">Michael Powers Frequence</option>
+            <option value="Michael Stella Star">Michael Stella Star</option>
+            <option value="Michael T.">Michael T.</option>
+            <option value="Michelle Federer">Michelle Federer</option>
+            <option value="Mike LeDonne Quartet">Mike LeDonne Quartet</option>
+            <option value="Miley Cyrus">Miley Cyrus</option>
+            <option value="Misbehaviour">Misbehaviour</option>
+            <option value="Miss Laurie Ann and The Saddletones">Miss Laurie Ann and The Saddletones</option>
+            <option value="Mitch Ryder & the Detroit Wheels, Gary Lewis and the Playboys">Mitch Ryder & the Detroit Wheels, Gary Lewis... </option>
+            <option value="Mogwai">Mogwai</option>
+            <option value="Natalie Merchant">Natalie Merchant</option>
+            <option value="Natasha Diggs">Natasha Diggs</option>
+            <option value="Natural Freaks">Natural Freaks</option>
+            <option value="Nels Cline Singers">Nels Cline Singers</option>
+            <option value="Neutral Milk Hotel">Neutral Milk Hotel</option>
+            <option value="Nick Mellevoi">Nick Mellevoi</option>
+            <option value="Nickel Creek">Nickel Creek</option>
+            <option value="NONONO">NONONO</option>
+            <option value="Norie">Norie</option>
+            <option value="O.A.R.">O.A.R.</option>
+            <option value="Oh Honey">Oh Honey</option>
+            <option value="Olga Bell">Olga Bell</option>
+            <option value="Oliver Dragojevic">Oliver Dragojevic</option>
+            <option value="Omar Sosa Quarteto AfroCubano">Omar Sosa Quarteto AfroCubano</option>
+            <option value="OneRepublic">OneRepublic</option>
+            <option value="Operator EMZ">Operator EMZ</option>
+            <option value="OutKast">OutKast</option>
+            <option value="Pantrin Vibes">Pantrin Vibes</option>
+            <option value="Paramore">Paramore</option>
+            <option value="Paul Barrere & Fred Tackett">Paul Barrere & Fred Tackett</option>
+            <option value="People Get Ready">People Get Ready</option>
+            <option value="Pet Shop Boys">Pet Shop Boys</option>
+            <option value="Phantogram">Phantogram</option>
+            <option value="Pharrell Williams">Pharrell Williams</option>
+            <option value="Phillip Phillips">Phillip Phillips</option>
+            <option value="Phoenix">Phoenix</option>
+            <option value="Photo Ops">Photo Ops</option>
+            <option value="Pittsburgh Symphony Orchestra">Pittsburgh Symphony Orchestra</option>
+            <option value="POLICA">POLICA</option>
+            <option value="Pours">Pours</option>
+            <option value="Primal Fear">Primal Fear</option>
+            <option value="Q-Tip">Q-Tip</option>
+            <option value="Queen">Queen</option>
+            <option value="Rascal Flatts">Rascal Flatts</option>
+            <option value="Redlight King">Redlight King</option>
+            <option value="Reflections">Reflections</option>
+            <option value="REO Speedwagon">REO Speedwagon</option>
+            <option value="Reputante">Reputante</option>
+            <option value="Reverend Vince Anderson and His Love Choir">Reverend Vince Anderson and His Love Choir</option>
+            <option value="Rich Robinson">Rich Robinson</option>
+            <option value="Richard Goode">Richard Goode</option>
+            <option value="Richie Cannata">Richie Cannata</option>
+            <option value="Rihanna">Rihanna</option>
+            <option value="Ringo Starr">Ringo Starr</option>
+            <option value="RL Grime">RL Grime</option>
+            <option value="Rob Thomas">Rob Thomas</option>
+            <option value="Rochester Philharmonic Orchestra">Rochester Philharmonic Orchestra</option>
+            <option value="Rodrigo y Gabriela">Rodrigo y Gabriela</option>
+            <option value="Royal Canoe">Royal Canoe</option>
+            <option value="Salva">Salva</option>
+            <option value="Seattle Symphony">Seattle Symphony</option>
+            <option value="Seether">Seether</option>
+            <option value="SharÃ³n Clark">Sharón Clark</option>
+            <option value="Sheryl Crow">Sheryl Crow</option>
+            <option value="Shirley Caesar">Shirley Caesar</option>
+            <option value="Shlohmo">Shlohmo</option>
+            <option value="Skrillex">Skrillex</option>
+            <option value="Sky Ferreira">Sky Ferreira</option>
+            <option value="Slaughterhouse">Slaughterhouse</option>
+            <option value="Slavic Soul Party!">Slavic Soul Party!</option>
+            <option value="Slint">Slint</option>
+            <option value="Smokey Robinson">Smokey Robinson</option>
+            <option value="SoftSpot">SoftSpot</option>
+            <option value="Sol Cat">Sol Cat</option>
+            <option value="Solange">Solange</option>
+            <option value="Somi">Somi</option>
+            <option value="Staks">Staks</option>
+            <option value="Stanley Clarke">Stanley Clarke</option>
+            <option value="Stephen Pearcy">Stephen Pearcy</option>
+            <option value="Steve Kuhn Trio">Steve Kuhn Trio</option>
+            <option value="Steven Baggs">Steven Baggs</option>
+            <option value="Strawberry Fields">Strawberry Fields</option>
+            <option value="Stromae">Stromae</option>
+            <option value="Strunz & Farah">Strunz & Farah</option>
+            <option value="Swans">Swans</option>
+            <option value="Syphilitc Lust">Syphilitc Lust</option>
+            <option value="T. Blues Band">T. Blues Band</option>
+            <option value="Tasha Cobbs">Tasha Cobbs</option>
+            <option value="Ted Leo">Ted Leo</option>
+            <option value="Ted Nugent">Ted Nugent</option>
+            <option value="Teen Daze">Teen Daze</option>
+            <option value="Tennis">Tennis</option>
+            <option value="Tesseract">Tesseract</option>
+            <option value="The 1975">The 1975</option>
+            <option value="The Ataris">The Ataris</option>
+            <option value="The Bad Plus">The Bad Plus</option>
+            <option value="The Bayside Tigers">The Bayside Tigers</option>
+            <option value="The Both">The Both</option>
+            <option value="The Clark Sisters">The Clark Sisters</option>
+            <option value="The Four Tops">The Four Tops</option>
+            <option value="The Harlem Gospel Choir">The Harlem Gospel Choir</option>
+            <option value="The Holmes Brothers">The Holmes Brothers</option>
+            <option value="The Idan Raichel Project">The Idan Raichel Project</option>
+            <option value="The Knife">The Knife</option>
+            <option value="The M&M's">The M&M's</option>
+            <option value="The Matt Geraghty Project">The Matt Geraghty Project</option>
+            <option value="The Melody Allegra Band">The Melody Allegra Band</option>
+            <option value="The MET Orchestra">The MET Orchestra</option>
+            <option value="The Mystic Circus Side Show">The Mystic Circus Side Show</option>
+            <option value="The New Orleans Suspects">The New Orleans Suspects</option>
+            <option value="The Pandanus Club">The Pandanus Club</option>
+            <option value="The Philadelphia Orchestr">The Philadelphia Orchestr</option>
+            <option value="The Pioneers">The Pioneers</option>
+            <option value="The Safes">The Safes</option>
+            <option value="The Script">The Script</option>
+            <option value="The Secret Sisters">The Secret Sisters</option>
+            <option value="The Soft Parade">The Soft Parade</option>
+            <option value="The Strokes">The Strokes</option>
+            <option value="The Stumblebum Brass Band">The Stumblebum Brass Band</option>
+            <option value="The Temptations">The Temptations</option>
+            <option value="The Turtles">The Turtles</option>
+            <option value="The Vamps">The Vamps</option>
+            <option value="The Whispers">The Whispers</option>
+            <option value="These New Puritans">These New Puritans</option>
+            <option value="Timeflies">Timeflies</option>
+            <option value="Toby Keith">Toby Keith</option>
+            <option value="Tommy Tune">Tommy Tune</option>
+            <option value="Tony Touch">Tony Touch</option>
+            <option value="Torres">Torres</option>
+            <option value="Trailer Radio">Trailer Radio</option>
+            <option value="Tramaine Hawkins">Tramaine Hawkins</option>
+            <option value="Tristan Perich">Tristan Perich</option>
+            <option value="Trivium">Trivium</option>
+            <option value="TV on the Radio">TV on the Radio</option>
+            <option value="twenty one pilots">twenty one pilots</option>
+            <option value="TWICE THE HITS">TWICE THE HITS</option>
+            <option value="Twig the Wonderkid">Twig the Wonderkid</option>
+            <option value="Twisted Sister">Twisted Sister</option>
+            <option value="Vampire Weekend">Vampire Weekend</option>
+            <option value="Varsity Vocals">Varsity Vocals</option>
+            <option value="Vassals">Vassals</option>
+            <option value="Vickie Winans">Vickie Winans</option>
+            <option value="VNV Nation">VNV Nation</option>
+            <option value="Volbeat">Volbeat</option>
+            <option value="Wax">Wax</option>
+            <option value="Willie Nelson">Willie Nelson</option>
+            <option value="Winnipeg Symphony Orchestra">Winnipeg Symphony Orchestra</option>
+            <option value="Xander Duell">Xander Duell</option>
+            <option value="Yolanda Adams">Yolanda Adams</option>
+            <option value="Young Unknowns">Young Unknowns</option>
+            <option value="Zach Heckendorf">Zach Heckendorf</option>
+            <option value="ZZ Top">ZZ Top</option>
+       </select>
+   <select name="venue" id="ccVenue">
+       <option value="">Select Venue</option>
+            <option value="Le Poisson Rouge">Le Poisson Rouge</option>
+            <option value="54 Below">54 Below</option>
+            <option value="B.B. King Blues Club & Grill">B.B. King Blues Club & Grill</option>
+            <option value="Baby's All Right">Baby's All Right</option>
+            <option value="Barbes">Barbes</option>
+            <option value="Barclays Center">Barclays Center</option>
+            <option value="Beacon Theatre">Beacon Theatre</option>
+            <option value="Beauty Bar">Beauty Bar</option>
+            <option value="Bemelmans Bar">Bemelmans Bar</option>
+            <option value="Bergen PAC">Bergen PAC</option>
+            <option value="Best Buy Theater">Best Buy Theater</option>
+            <option value="Bethel Woods Center for the Arts">Bethel Woods Center for the Arts</option>
+            <option value="Birdland">Birdland</option>
+            <option value="The Bitter End">The Bitter End</option>
+            <option value="Blender Theater">Blender Theater</option>
+            <option value="Blue Note">Blue Note</option>
+            <option value="Bowery Ballroom">Bowery Ballroom</option>
+            <option value="Bowery Electric">Bowery Electric</option>
+            <option value="Cafe Carlyle">Cafe Carlyle</option>
+            <option value="Cameo Gallery">Cameo Gallery</option>
+            <option value="Carnegie Hall">Carnegie Hall</option>
+            <option value="Central Park, Rumsey Playfield">Central Park, Rumsey Playfield</option>
+            <option value="Cielo">Cielo</option>
+            <option value="City Winery">City Winery</option>
+            <option value="Cleopatra's Needle">Cleopatra's Needle</option>
+            <option value="Lincoln Center, David Rubenstein Atrium">Lincoln Center, David Rubenstein Atrium</option>
+            <option value="The Delancey">The Delancey</option>
+            <option value="Fat Cat Billiards">Fat Cat Billiards</option>
+            <option value="Feinstein's at Loew's Regency">Feinstein's at Loew's Regency</option>
+            <option value="The Glasslands Gallery">The Glasslands Gallery</option>
+            <option value="The Gramercy Theatre">The Gramercy Theatre</option>
+            <option value="Grand Victory">Grand Victory</option>
+            <option value="Hammerstein Ballroom">Hammerstein Ballroom</option>
+            <option value="Icon">Icon</option>
+            <option value="Iridium">Iridium</option>
+            <option value="Irving Plaza">Irving Plaza</option>
+            <option value="Izod Center">Izod Center</option>
+            <option value="Jalopy Theater">Jalopy Theater</option>
+            <option value="Jazz Gallery">Jazz Gallery</option>
+            <option value="Jazz Standard">Jazz Standard</option>
+            <option value="Joe's Pub">Joe's Pub</option>
+            <option value="Knockdown Center">Knockdown Center</option>
+            <option value="Madison Square Garden">Madison Square Garden</option>
+            <option value="Mayo Performing Arts Center">Mayo Performing Arts Center</option>
+            <option value="MetLife Stadium">MetLife Stadium</option>
+            <option value="The Metropolitan Museum of Art">The Metropolitan Museum of Art</option>
+            <option value="Metropolitan Opera House">Metropolitan Opera House</option>
+            <option value="Metropolitan Room">Metropolitan Room</option>
+            <option value="Music Hall of Williamsburg">Music Hall of Williamsburg</option>
+            <option value="Nassau Coliseum">Nassau Coliseum</option>
+            <option value="Nikon at Jones Beach Theater">Nikon at Jones Beach Theater</option>
+            <option value="NYCB Theatre">NYCB Theatre</option>
+            <option value="Output">Output</option>
+            <option value="The Paramount">The Paramount</option>
+            <option value="Pianos">Pianos</option>
+            <option value="PNC Bank Arts Center">PNC Bank Arts Center</option>
+            <option value="Prospect Park Bandshell">Prospect Park Bandshell</option>
+            <option value="Prudential Center">Prudential Center</option>
+            <option value="Radio City Music Hall">Radio City Music Hall</option>
+            <option value="Randall's Island">Randall's Island</option>
+            <option value="The Rock Shop">The Rock Shop</option>
+            <option value="Rodeo Bar">Rodeo Bar</option>
+            <option value="Rough Trade NYC">Rough Trade NYC</option>
+            <option value="Roulette Brooklyn">Roulette Brooklyn</option>
+            <option value="S.O.B.'s">S.O.B.'s</option>
+            <option value="Smoke Jazz and Supper Club">Smoke Jazz and Supper Club</option>
+            <option value="South Street Seaport">South Street Seaport</option>
+            <option value="Spike Hill">Spike Hill</option>
+            <option value="Stage 48">Stage 48</option>
+            <option value="Starland Ballroom">Starland Ballroom</option>
+            <option value="The Stone">The Stone</option>
+            <option value="Studio at Webster Hall">Studio at Webster Hall</option>
+            <option value="Subculture">Subculture</option>
+            <option value="Sutra Lounge">Sutra Lounge</option>
+            <option value="Terminal 5">Terminal 5</option>
+            <option value="Terra Blues Bar Restaurant & Music">Terra Blues Bar Restaurant & Music</option>
+            <option value="Theater at Madison Square Garden">Theater at Madison Square Garden</option>
+            <option value="Town Hall">Town Hall</option>
+            <option value="Union Pool">Union Pool</option>
+            <option value="Village Vanguard">Village Vanguard</option>
+            <option value="Webster Hall">Webster Hall</option>
+            <option value="Wellmont Theatre">Wellmont Theatre</option>
+       </select>
+         <img src="/img/pbvp3-275.png" alt="Powered by VOICE Places" title="Powered by VOICE Places"/>
+   
+  </form>
+ </div>
+</div>
+<script type="text/javascript">
+  initConcertCalendarSearch();
+</script></div><div class="chisel_u r_ad_box r_noverflow " ><!-- NOGSA -->
+<div class="Ads" id="Middle1">
+    <script type="text/javascript">
+        <!--
+        OAS_AD('Middle1');
+        //-->
+    </script>
+</div>
+<!-- /NOGSA --></div>
+<div class="widget trackme" name="TiqiqWidget"><div class="chisel_u r_ad_box">
+    <div id='TiqiqWidget' class=''>
+        <a title='New York Event Tickets' href='http://tickets.villagevoice.com/new-york-event-tickets'>
+            <img alt='New York Event Tickets' src='http://images.tiqiq.com/tiqiq/images/tiqiq-power.png'></img>
+        </a>
+        <script type="text/javascript">
+            (function() {
+                var tiqiq = document.createElement('script');
+                tiqiq.type = 'text/javascript'; tiqiq.async = true;
+                tiqiq.src = 'http://www.tiqiq.com/jscripts/widget.aspx';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tiqiq, s);
+              })();
+        </script>
+    </div>
+</div></div><div class="widget trackme" name="NowTrending"><div id="nowTrendingWidget" class="simpleRailList lightBackground Story">
+    <h2>Now Trending</h2>
+            <ul class="stories">
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/albums_that_make_people_insufferable.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/768092.75x75.jpg" alt="Five Albums That Make Their Fans Insufferable"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/albums_that_make_people_insufferable.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Five Albums That Make Their Fans Insufferable                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/ask_andrew_wk_stop_eating_meat.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/768384.75x75.jpg" alt="Ask Andrew W.K.: Should I Stop Eating Meat?"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/ask_andrew_wk_stop_eating_meat.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Ask Andrew W.K.: Should I Stop Eating Meat?                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://www.villagevoice.com/2014-04-23/music/ask-andrew-wk-should-i-buy-a-gun/" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://media.villagevoice.com/9692943.17.jpg" alt="Ask Andrew W.K.: Should I Buy a Gun?"/>
+                        </a>
+                        <a class="info" href="http://www.villagevoice.com/2014-04-23/music/ask-andrew-wk-should-i-buy-a-gun/" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Ask Andrew W.K.: Should I Buy a Gun?                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/six_underrated_songs.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/767979.75x75.jpg" alt="Six of the Most Underrated Songs of All Time"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/six_underrated_songs.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Six of the Most Underrated Songs of All Time                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/jay_z_once_wrote_a_song_for_bugs_bunny.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/768214.75x75.jpg" alt="Five Songs Written By People You&#039;d Never Expect"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/jay_z_once_wrote_a_song_for_bugs_bunny.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Five Songs Written By People You'd Never Expect                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/video_punk_fireworks.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/767995.75x75.jpg" alt="Slo-mo Vid of Punk Rock Firework Mishap"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/video_punk_fireworks.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Slo-mo Vid of Punk Rock Firework Mishap                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/best_concerts_4_25.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/768791.75x75.jpg" alt="This Weekend&#039;s Must-See Shows"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/best_concerts_4_25.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            This Weekend's Must-See Shows                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/raps_oldest_cliche.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/768749.75x75.jpg" alt="The History of Rap&#039;s Oldest Cliche"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/raps_oldest_cliche.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            The History of Rap's Oldest Cliche                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/ace_frehley_demo_sold.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/768436.75x75.jpg" alt="Long-Lost Ace Frehley Record Sold For a Bunch"/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/ace_frehley_demo_sold.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Long-Lost Ace Frehley Record Sold For a Bunch                        </a>
+                    </div>
+                </li>
+                                            <li class="story">
+                    <div class="wrap">
+                        <a href="http://blogs.villagevoice.com/music/2014/04/coachella_cabbies.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            <img src="http://blogs.villagevoice.com/common/assets/767944.75x75.jpg" alt="Coachella Cabbies and Their Amazing Stories "/>
+                        </a>
+                        <a class="info" href="http://blogs.villagevoice.com/music/2014/04/coachella_cabbies.php" onClick="_gaq.push([&quot;_trackEvent&quot;, &quot;NowTrending&quot;, &quot;Click&quot;, &quot;Story&quot;]);">
+                            Coachella Cabbies and Their Amazing Stories                        </a>
+                    </div>
+                </li>
+                    </ul>
+                <div class="border-bottom"></div>
+</div>
+<script type="text/javascript">
+    nowTrending.init();
+</script></div><div class="widget trackme" name="EvergreenWidget"><div id="Evergreen_Widget" class="chisel_u r_box Evergreen_Widget">
+    <h2>From the Vault</h2>
+    <div class="Image_Box">
+        <a href="http://blogs.villagevoice.com/music/2013/05/25_classic_metal_photos.php"><img src="http://blogs.villagevoice.com/common/assets/699816.220x150.jpg" alt="25 Classic Metal/Hardcore Photos from &lt;I&gt;Louder Than Hell&lt;/I&gt;" title="25 Classic Metal/Hardcore Photos from &lt;I&gt;Louder Than Hell&lt;/I&gt;" /></a>        <h3><a href="http://blogs.villagevoice.com/music/2013/05/25_classic_metal_photos.php">25 Classic Metal/Hardcore Photos from Louder... </a></h3><!-- truncate headline to 50 chars, add '...' if needed -->
+    </div>
+</div></div></div>
+</div>
+<div class="clearIt " ></div>
+         <div class='bottomAd'><!-- NOGSA -->
+<div class="Ads" id="Bottom">
+    <script type="text/javascript">
+        <!--
+        OAS_AD('Bottom');
+        //-->
+    </script>
+</div>
+<!-- /NOGSA --></div>
+         <!-- /p/af/v/e/Footer -->
+<!--googleoff: all-->
+
+ <div class="newFooter">
+  <div class="nfNav">
+   <ul>
+    <li><a href="/about/index/">About Us</a></li>
+    <li class="long"><a href="/advertise/">Local Advertising</a></li>
+    <li><a href="/promotions/mobileApps/">Mobile</a></li>
+    <li><a href="/about/syndication/">RSS</a></li>
+                    <li><a href="/flipbook/">E-Edition</a></li>
+        
+        <li><a href="/about/siteMap/">Site Map</a></li>
+   </ul>
+  </div>
+   <ul>
+    <li>
+     <h4>My Account</h4>
+     <span data-omni-action="login">Log In</span><br/>
+     <span data-omni-action="join">Join</span>
+    </li>
+    <li>
+     <h4>Connect</h4>
+     <a href="http://www.facebook.com/villagevoice">Facebook</a><br/>
+     <a href="https://twitter.com/villagevoice/">Twitter</a><br/>
+     <a href="/samples/readers/">Newsletters</a><br/>
+          <a href="/promosites/village-voice-city-app">Things To Do App</a>
+         </li>
+    <li>
+     <h4>Advertising</h4>
+     <a href="/about/">Contact Us</a><br/>
+     <a href="http://www.vmgadvertising.com" target="_blank">National</a><br/>
+     <a href="http://www.vdigitalservices.com" target="_blank">Agency Services</a><br/>
+     <a href="/classifieds/">Classified</a><br/>
+              <a href="/infographics/">Infographics</a><br/>
+        </li>
+    <li class="last">
+     <h4>Company</h4>
+     <a href="/about/privacyPolicy/">Privacy Policy</a><br/>
+     <a href="/about/terms/">Terms of Use</a><br/>
+     <a href="/bugs/">Site Problems?</a><br/>
+     <a href="https://www.smartrecruiters.com/villagevoice/">Careers</a><br/>    </li>
+   </ul>
+   <div class="grayBar">
+    &copy;2014 Village Voice, LLC, All rights reserved.
+   </div>
+ </div>
+<script type="text/javascript">
+    MVN.queue(function(){
+        if(MVN.user){
+            $('.newFooter > ul li').first().replaceWith(
+                $('<li/>')
+                    .append($('<h4/>').text('My Account'))
+                    .append($('<a/>').attr('href', 'http://www.myvoicenation.com/'+MVN.user.username+'/').text('Profile')).append($('<br/>'))
+
+                                            .append($('<a/>').attr('href', 'http://www.myvoicenation.com/subscriptions/?city=nyv').text('Mobile')).append($('<br/>'))
+                        .append($('<a/>').attr('href', 'http://www.myvoicenation.com/subscriptions/?city=nyv').text('Newsletters')).append($('<br/>')
+                                            )
+                    .append($('<span data-omni-action="logout"/>').text('Logout'))
+            );
+        } else {
+                            if (/(blog(s|test)\.)|[\?&]customad=/.test(window.location.href) || $("span.affinity").length > 0) {
+                    return;
+                }
+                if (!VVM.getCookie('submodal') && VVM.cookiesEnabled() && $('#dontShowSubscribeModal').length == 0) {
+                    MVN.omni.buildModal('subscribe');
+                    if (MVN.omni.Modals['subscribe']) {
+                        MVN.omni.Modals['subscribe'].show();
+                    }
+                }
+                    }
+    })
+</script>
+<!-- End /p/af/v/e/Footer -->        </div>
+    </div>
+
+</div><!-- /pagecontainer -->
+    <div id="adWrapper2">
+            <div class="AdsSkin">
+                <script type="text/javascript">
+                    <!--
+                    OAS_AD('Frame1');
+                    //-->
+                </script>
+            </div>
+    </div>
+<div id="omni" class="loading">
+        <div id="omni-black">
+            <div id="omni-content">
+                <span class="loading">Loading...</span>
+            </div>
+        </div>
+        <div class="omni-content-anchor"></div>
+        <script type="text/template" id="omni-content-template">
+            <span class="omni-left"><% if(market && market.id === 'places'){ %><% if (referrer) { %><span id="omni-referer"><a href="<%= referrer.back %>"><% if (referrer.direct) { %><i class="omni-icon-arrow-left"></i><% } %><span><%= referrer.name %></span></a></span><% } %><span id="omni-here" class="active clickable" ><i class="omni-icon-vp-red"></i>Voice Places</span><% } else { %><span class="active" id="omni-here"><span><%= market.name %></span></span><a id="omni-visit-vp" href="http://www.voiceplaces.com/<%= market.shortname %>"><i class="omni-icon-vp"></i>Voice Places
+        </a><% } %></span><span class="omni-right"><span class="omni-dropdown" id="omni-more-from-vmg"><span class="omni-drop-face"><i class="omni-icon-plus" data-active-class="omni-icon-minus"></i>More From Voice Nation</span><div class="omni-drop"><% if (market.id === 'places') { market = referrer } %><div><ul><li><a href="http://www.villagevoice.com/">New York Village Voice</a></li><li><a href="http://www.riverfronttimes.com/">St. Louis Riverfront Times</a></li><li><a href="http://www.phoenixnewtimes.com/">Phoenix New Times</a></li><li><a href="http://www.miaminewtimes.com/">Miami New Times</a></li><li><a href="http://www.laweekly.com/">LA Weekly</a></li><li><a href="http://www.houstonpress.com/">Houston Press</a></li><li><a href="http://www.westword.com/">Denver Westword</a></li><li><a href="http://www.citypages.com/">Minneapolis City Pages</a></li><li><a href="http://www.ocweekly.com/">OC Weekly</a></li><li><a href="http://www.toplessrobot.com/">Topless Robot</a></li><li><a href="http://www.browardpalmbeach.com/">Broward/Palm Beach New Times</a></li><% if (market) { %><li><a href="http://www.voiceplaces.com/<%= market.shortname %>">Voice Daily Deals</a></li><% } %><li><a href="http://www.dallasobserver.com/">Dallas Observer</a></li><% if (market) { %><li><a href="http://happyhours.<%= market.domain %>/">Happy Hour App</a></li><% } %></ul><div class="omni-anchor"></div></div></div></span><% if (user) { %><span id="omni-user" class="omni-dropdown" ><span class="omni-drop-face"><span id="omni-username"><%= user.username %></span><i class="omni-icon-mvn fill"></i><i class="omni-icon-arrow-down fill" data-active-class="omni-icon-arrow-up"></i></span><div class="omni-drop"><ul><li><a href="http://www.myvoicenation.com/" target="_blank" ><i class="omni-icon-mvn-small"></i>
+                            Profile
+                        </a></li><li><a href="http://www.myvoicenation.com/subscriptions/?city=nyv" target="_blank" ><i class="omni-icon-envelope"></i>
+                                Newsletters
+                            </a></li><li><a href="http://www.myvoicenation.com/subscriptions/?city=nyv" target="_blank" ><i class="omni-icon-mobile"></i>
+                                Mobile
+                            </a></li><li><a data-omni-action="logout"><i class="omni-icon-out"></i>
+                            Logout
+                        </a></li></ul></div></span><% } else { %><span id="omni-no-user"><i class="omni-icon-mvn"></i><a class="join" data-omni-action="join|sid[8|22|37]">Join</a><a class="login" data-omni-action="login|sid[8|22|37]">Sign In</a></span><% } %></span><div class="omni-content-anchor"></div>        </script>
+    </div>
+<script type="text/javascript">
+    var omniInitialConfig = {"cid":"nyv","sid":"8|22|37","localPath":"\/","authDomain":"www.myvoicenation.com","appId":"94d459092fa746f82b50b7a07867232b"};
+    if(window.MVN){
+        MVN.onReady(function(){
+                        omniInitialConfig.toolbar = document.getElementById('omni');
+                        MVN.init(omniInitialConfig);
+        });
+    }
+</script>
+
+<script>
+
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035631", c3: "", c4: "http://www.villagevoice.com/concerts/" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035631&c3=&c4=http://www.villagevoice.com/concerts/&c5=&c6=&c15=&cj=1" />
+</noscript>
+
+	
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-a4LDpi_DEopn-"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-a4LDpi_DEopn-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script type="text/javascript">
+	var _sf_async_config={uid:10424,domain:"villagevoice.com"};
+	(function(){
+	  function loadChartbeat() {
+		window._sf_endpt=(new Date()).getTime();
+		var e = document.createElement('script');
+		e.setAttribute('language', 'javascript');
+		e.setAttribute('type', 'text/javascript');
+		e.setAttribute('src',
+		   (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+		   "static.chartbeat.com/js/chartbeat.js");
+		document.body.appendChild(e);
+	  }
+	  var oldonload = window.onload;
+	  window.onload = (typeof window.onload != 'function') ?
+		 loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script>
+
+
+
+
+<!-- /p/af/v/e/PaperSiteJS -->
+
+
+
+</div><!-- outerBody -->
+<!-- BuzzFeed -->
+<div id="BF_WIDGET_1">&nbsp;</div>
+<script type="text/javascript">
+    (function( ){
+        BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+        BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=villagevoice.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+        setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+    })();
+</script>
+</body>
+</html>

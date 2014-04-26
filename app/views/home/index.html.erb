@@ -11,5 +11,15 @@
 
   <%= "http://www.villagevoice.com/concerts/#/date:" + @search_days[@d] + "/" %>
   <br><br>
+
+  <% cmd = "ls " + @search_days[0] + ".txt" %>
+  <%= `#{cmd}`.strip + "!!!" + @search_days[0] + ".txt" %><br>
+  <%= `#{cmd}`.strip == @search_days[0] + ".txt" %>
+  <% cmd = "ls " + @search_days[1] + ".txt" %><br>
+  <%= `#{cmd}` + " is ls for a file that isn't there" %>
+
+  <!-- Now we wget if the date has not yet been added to the scraper -->
+   
+  <br><br>
   <%= @doc_string.to_s %>
 </body>
