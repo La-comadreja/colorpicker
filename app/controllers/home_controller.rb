@@ -25,6 +25,8 @@ class HomeController < ApplicationController
       if t.include?("+on+" + @search_days[@date])
         t.gsub!("<p>", "")
         t.gsub!("</p>", "<br>")
+        doc_string = Nokogiri::HTML(open(t))
+
         @events.append(t)
         l = "http://www.mysocialist.com" + s.css("a")[0].to_s.encode!('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '').split("\"")[1]
         @links.append(l)
